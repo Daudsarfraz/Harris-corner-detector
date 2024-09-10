@@ -43,5 +43,3 @@ The Harris corner detector has been widely applied in various computer vision ta
 1. Harris, C., & Stephens, M. (1988). A combined corner and edge detector. 
 2. Comparison and improvements of corner detection techniques.
 3. Edge detection and image processing techniques for corner identification.
-
-This README serves as a comprehensive guide to understanding the Harris corner detector, its steps, improvements, and applications in the field of computer vision.
